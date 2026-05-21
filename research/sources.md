@@ -187,27 +187,30 @@ Recent Content Collected:
  
 ---
  
-## Minal Shah
- 
+## Kieran Drew
+
 Platform:
 - LinkedIn
- 
+- YouTube
+
 Profile Links:
-- https://www.linkedin.com/in/minalshah/
- 
+- https://www.linkedin.com/in/itskierandrew/
+- https://www.youtube.com/@KieranDrew
+
 Why Chosen:
-Shares practical strategies for content positioning and professional audience growth on LinkedIn.
- 
+Known for educational content on writing, creator businesses, AI-assisted workflows, and audience growth.
+
 Content Focus:
+- Writing systems
+- Creator economy
+- AI-assisted content
 - Personal branding
-- LinkedIn engagement
-- B2B communication
-- Content consistency
- 
+
 Recent Content Collected:
 - LinkedIn posts
- 
----
+- YouTube content
+
+--- 
  
 ## Tasleem Ahmad Fateh
  
